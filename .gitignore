@@ -1,0 +1,4 @@
+subh.info
+*.log
+test/
+.env
